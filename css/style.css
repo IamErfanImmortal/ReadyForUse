@@ -5,3 +5,116 @@ img {
     max-width: 100%;
     height: auto;
 }
+a {
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+*{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+    /* border: 1px solid #fff; */
+}
+body{
+    font-family: kalameh;
+    background-color: var(--color_07101D);
+}
+
+/* MyCodes */
+:root{
+    --color_07101D:#07101D;
+    --color_secondary:#FF3C00;
+}
+.bg_secondary {
+    background-color: var(--color_secondary);
+}
+.text_color_secondary {
+    color: var(--color_secondary);
+}
+.border_secondary {
+    border-color: var(--color_secondary);
+}
+.gradient_site {
+    background-image: linear-gradient(to right,#7011AD,#BC0505,#FC630F);
+}
+.my_fs1 {
+    font-size: 1rem;
+}
+.my_fs15 {
+    font-size: 1.5rem;
+}
+.my_fs2 {
+    font-size: 2rem;
+}
+.my_fs25 {
+    font-size: 2.5rem;
+}
+.my_fs3 {
+    font-size: 3rem;
+}
+.my_fs35 {
+    font-size: 3.5rem;
+}
+.my_fs4 {
+    font-size: 4rem;
+}
+
+
+/* Import Font 
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: 900;
+    src: url('../font/WebFonts/_Woff/KalamehWeb-Black.woff') format('woff');
+}
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../font/WebFonts/_Woff/KalamehWeb-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../font/WebFonts/_Woff/KalamehWeb-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: 300;
+    src: url('../font/WebFonts/_Woff/KalamehWeb-Thin.woff') format('woff');
+}
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: 900;
+    src: url('../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff') format('woff');
+}
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../font/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: Gilroy_Bold;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../font/WebFonts/_Woff/Gilroy-Bold.woff') format('woff');
+}
+*/
+
+/* Media Query */
+@media screen and (max-width:991.98px) {
+    
+}
