@@ -1,0 +1,350 @@
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebboldfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebboldfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebboldfanum.woff") format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebboldfanum.ttf") format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebthinfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebthinfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebthinfanum.woff") format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebthinfanum.ttf") format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanweblightfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanweblightfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanweblightfanum.woff") format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanweblightfanum.ttf") format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebregularfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebregularfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebregularfanum.woff") format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebregularfanum.ttf")
+      format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebmediumfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebmediumfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebmediumfanum.woff") format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebmediumfanum.ttf") format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebextraboldfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebextraboldfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebextraboldfanum.woff")
+      format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebextraboldfanum.ttf")
+      format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebblackfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebblackfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebblackfanum.woff") format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebblackfanum.ttf") format("truetype");
+}
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 950;
+  font-display: swap;
+  src: url("../fonts/iranyekan/eot/iranyekanwebextrablackfanum.eot");
+  src: url("../fonts/iranyekan/eot/iranyekanwebextrablackfanum.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iranyekan/woff/iranyekanwebextrablackfanum.woff")
+      format("woff"),
+    url("../fonts/iranyekan/ttf/iranyekanwebextrablackfanum.ttf")
+      format("truetype");
+}
+@font-face {
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?ssdwde");
+  src: url("fonts/icomoon.eot?ssdwde#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?ssdwde") format("truetype"),
+    url("fonts/icomoon.woff?ssdwde") format("woff"),
+    url("fonts/icomoon.svg?ssdwde#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "icomoon" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-to-business-decoration-furniture:before {
+  content: "\e90b";
+}
+.icon-to-business-educational:before {
+  content: "\e921";
+}
+.icon-to-business-restaurant:before {
+  content: "\e922";
+}
+.icon-to-business-food-products:before {
+  content: "\e923";
+}
+.icon-to-business-guilds:before {
+  content: "\e924";
+}
+.icon-to-business-haberdashery:before {
+  content: "\e925";
+}
+.icon-to-business-home-appliances:before {
+  content: "\e926";
+}
+.icon-to-business-house:before {
+  content: "\e927";
+}
+.icon-to-business-industrial:before {
+  content: "\e928";
+}
+.icon-to-business-medical:before {
+  content: "\e929";
+}
+.icon-to-business-official:before {
+  content: "\e92a";
+}
+.icon-to-business-jewelry:before {
+  content: "\e92b";
+}
+.icon-to-business-publishing:before {
+  content: "\e92c";
+}
+.icon-to-business-sports:before {
+  content: "\e92d";
+}
+.icon-to-business-tobacco:before {
+  content: "\e92e";
+}
+.icon-to-business-transportation:before {
+  content: "\e92f";
+}
+.icon-to-business-travel:before {
+  content: "\e930";
+}
+.icon-to-business-vehicle:before {
+  content: "\e931";
+}
+.icon-to-business-animal-poultry:before {
+  content: "\e932";
+}
+.icon-to-business-artistic:before {
+  content: "\e933";
+}
+.icon-to-business-building:before {
+  content: "\e934";
+}
+.icon-to-business-ceremonies:before {
+  content: "\e935";
+}
+.icon-to-business-city:before {
+  content: "\e936";
+}
+.icon-to-business-clothing:before {
+  content: "\e937";
+}
+.icon-to-business-computer-mobile:before {
+  content: "\e938";
+}
+.icon-to-business-cosmetics:before {
+  content: "\e91b";
+}
+.icon-to-infinite:before {
+  content: "\e939";
+}
+.icon-to-experience:before {
+  content: "\e93a";
+}
+.icon-to-quality-file:before {
+  content: "\e93b";
+}
+.icon-to-dedicated:before {
+  content: "\e93c";
+}
+.icon-to-guarantee:before {
+  content: "\e93d";
+}
+.icon-to-grid2x2:before {
+  content: "\e91d";
+}
+.icon-to-grid3x3:before {
+  content: "\e91e";
+}
+.icon-to-grid4x4:before {
+  content: "\e91f";
+}
+.icon-to-grid5x5:before {
+  content: "\e920";
+}
+.icon-to-phone:before {
+  content: "\e91c";
+}
+.icon-to-pro-appused:before {
+  content: "\e91a";
+}
+.icon-to-phonenumber:before {
+  content: "\e904";
+}
+.icon-to-pro-sefareshlocation:before,
+.icon-to-pro-address:before {
+  content: "\e90c";
+}
+.icon-to-pro-website:before {
+  content: "\e90d";
+}
+.icon-to-pro-working_time:before {
+  content: "\e90e";
+}
+.icon-to-pro-donetime:before {
+  content: "\e90f";
+}
+.icon-to-pro-phonenumber:before {
+  content: "\e910";
+}
+.icon-to-pro-executors:before {
+  content: "\e911";
+}
+.icon-to-pro-employer:before {
+  content: "\e918";
+}
+.icon-to-pro-instagram:before {
+  content: "\e912";
+}
+.icon-to-pro-telegram:before {
+  content: "\e913";
+}
+.icon-to-social-facebook:before {
+  content: "\e914";
+}
+.icon-to-social-instagram:before {
+  content: "\e915";
+}
+.icon-to-social-telegram:before {
+  content: "\e916";
+}
+.icon-to-social-linkedin:before {
+  content: "\e917";
+}
+.icon-to-social-twitter:before {
+  content: "\e919";
+}
+.icon-to-social-whatsapp:before {
+  content: "\e93e";
+}
+.icon-to-social-pinterest:before {
+  content: "\e93f";
+}
+.icon-to-social-aparat:before {
+  content: "\e940";
+}
+.icon-to-social-youtube:before {
+  content: "\e941";
+}
+.icon-to-related-contracts:before {
+  content: "\e906";
+}
+.icon-to-related-prices:before {
+  content: "\e907";
+}
+.icon-to-related-orders:before {
+  content: "\e908";
+}
+.icon-to-related-works:before {
+  content: "\e909";
+}
+.icon-to-related-services:before {
+  content: "\e90a";
+}
+.icon-to-edit:before {
+  content: "\e905";
+}
+.icon-to-angle-up:before {
+  content: "\e901";
+}
+.icon-to-angle-right:before {
+  content: "\e902";
+}
+.icon-to-angle-down:before {
+  content: "\e903";
+}
+.icon-to-angle-left:before {
+  content: "\e900";
+}
+body,
+input,
+textarea,
+select,
+button,
+.fancybox-caption,
+.filepond--root,
+.h1:not(.tofont),
+.h2:not(.tofont),
+.h3:not(.tofont),
+.h4:not(.tofont),
+.h5:not(.tofont),
+.h6:not(.tofont),
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: IRANYekan !important;
+}
+.h1:not(.tofont),
+.h2:not(.tofont),
+.h3:not(.tofont),
+.h4:not(.tofont),
+.h5:not(.tofont),
+.h6:not(.tofont),
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
